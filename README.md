@@ -16,3 +16,7 @@
 
 ![image-20211212231748342](/Users/k_ashigaki/boostnote_test2/README.assets/image-20211212231748342.png)
 
+![image-20211212231910578](image-20211212231910578.png)
+
+![image-20211212231916430](image-20211212231916430.png)
+
