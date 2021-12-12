@@ -1,1 +1,10 @@
-# boostnote_test
+# test1
+
+---
+
+こんにちわ。おはよう〜〜〜〜〜〜〜〜〜〜〜〜〜〜。でもどもう〜〜〜〜〜〜〜〜〜〜〜〜〜〜。でもどもう〜〜〜〜〜〜〜〜〜〜〜〜〜〜。でもどもう〜〜〜〜〜〜〜〜〜〜〜〜〜〜。でもどもう〜〜〜〜〜〜〜〜〜〜〜〜。でもども
+
+さようなら
+
+![image-20211212231343930](/Users/k_ashigaki/Library/Application Support/typora-user-images/image-20211212231343930.png)
+
