@@ -6,5 +6,9 @@
 
 さようなら
 
-![image-20211212231343930](/Users/k_ashigaki/Library/Application Support/typora-user-images/image-20211212231343930.png)
+![image-20211212231609635](/Users/k_ashigaki/boostnote_test2/image-20211212231609635.png)
+
+![image-20211212231616130](/Users/k_ashigaki/boostnote_test2/image-20211212231616130.png)
+
+
 
