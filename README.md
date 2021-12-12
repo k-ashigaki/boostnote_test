@@ -6,19 +6,12 @@
 
 さようなら
 
-![image-20211212231609635](/Users/k_ashigaki/boostnote_test2/image-20211212231609635.png)
-
-![image-20211212231616130](/Users/k_ashigaki/boostnote_test2/image-20211212231616130.png)
-
-
-
-![image-20211212231739774](/Users/k_ashigaki/boostnote_test2/README.assets/image-20211212231739774.png)
-
-![image-20211212231748342](/Users/k_ashigaki/boostnote_test2/README.assets/image-20211212231748342.png)
-
 ![image-20211212231910578](image-20211212231910578.png)
 
 
 
+Markdown Image
+
+![picture 2](images/7b62b2f1b8681503a86ea133a98086ff7644f7e3852d87b409dae422747eaed5.png)  
 
 
